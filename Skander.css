@@ -1,0 +1,24 @@
+.Hoofdstuk {
+
+    position: absolute;
+    left: 38%;
+
+}
+body {
+
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: linear-gradient(rgb(47,150,163), rgb(48,62,143));
+    font-family: "Cocogoose Pro";
+    color: white;
+
+}
+p {
+
+    position: absolute;
+    top: 15%;
+    left: 45%;
+
+}
